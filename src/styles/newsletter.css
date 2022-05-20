@@ -1,0 +1,10 @@
+#newsletter-form{
+    text-align: center;
+    width: 10rem;
+    height: 10em;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr ;
+    border-radius: 1rem;
+    border-color: black;
+}
